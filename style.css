@@ -3,19 +3,28 @@
     }
     h1{
         font-size: 50px;
+        
     }
+    .color{
+        border-left: 4px solid red;
+       padding-left: 10px;
+    }
+    
+
     .orange{
         color: orange;
     }
     .flexible{
         display: flex;
+        margin: 0%;
     }
     .half-width{
-        width: 60%;
+        width: 100%;
         padding:30px;
+        margin: 0%;
     }
     .half-width img{
-        width: 70%;
+        width: 100%;
         height: 70%;
     }
     .button{
@@ -25,9 +34,9 @@
         border-radius: 5px;
         color: white;
     }
-    .amar-mission{
+    .center{
         text-align: center;
-        display: block;
+       
     }
     .bgcolor{
        background-color: khaki;
